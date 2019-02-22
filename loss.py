@@ -2,6 +2,8 @@ import torch
 import torch.nn as nn
 import numpy as np
 
+test_add = "hello world!!!"
+
 def main():
 	N, C = 2, 3 #batch_size, num_classes
 	loss = nn.NLLLoss()
