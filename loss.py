@@ -3,6 +3,7 @@ import torch.nn as nn
 import numpy as np
 
 test_add = "hello world!!!"
+test2 = "another one here"
 
 def main():
 	N, C = 2, 3 #batch_size, num_classes
