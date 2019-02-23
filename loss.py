@@ -4,6 +4,7 @@ import numpy as np
 
 test_add = "hello world!!!"
 test2 = "another one here"
+test3 = "new day here!"
 
 def main():
 	N, C = 2, 3 #batch_size, num_classes
